@@ -63,7 +63,7 @@ width: 560px;
     font-weight: lighter;
     font-style: normal;
 }
-.work {
+.work, .achievements {
 width: 525px;
 color: #595959;
 font-weight: 400;
